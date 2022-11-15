@@ -10,6 +10,7 @@ body {
     font-family: 'Gilroy', sans-serif;
     font-weight: 500;
     font-size: 1.75rem;
+    background-color: #FFFFFF;
 }
 
 .container {
@@ -192,7 +193,6 @@ header {
 .Case-studies {
     margin: 0 0 80px 0;
     padding: 104px 0;
-    background-color: white;
 }
 
 .Case-studies__content {
