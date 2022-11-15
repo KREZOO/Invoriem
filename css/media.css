@@ -226,6 +226,7 @@
     .video__btn-mobile {
         display: block;
         width: 0px;
+        left: 43%;
     }
 
     .video__picture img {
