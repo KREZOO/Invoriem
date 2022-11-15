@@ -10,7 +10,6 @@ body {
     font-family: 'Gilroy', sans-serif;
     font-weight: 500;
     font-size: 1.75rem;
-    background-color: #FFFFFF;
 }
 
 .container {
@@ -193,6 +192,7 @@ header {
 .Case-studies {
     margin: 0 0 80px 0;
     padding: 104px 0;
+    background-color: #FFFFFF;
 }
 
 .Case-studies__content {
@@ -239,6 +239,7 @@ header {
 .about {
     margin: 0 0 80px 0;
     padding: 144px 0;
+    background-color: #FFFFFF;
 }
 
 .about__title {
@@ -257,6 +258,7 @@ header {
 /*Video*/
 .video {
     position: relative;
+    background-color: #FFFFFF;
 }
 
 .video-overlay::after {
@@ -309,6 +311,7 @@ header {
 /*Footer*/
 .footer {
     padding: 80px 0;
+    background-color: #FFFFFF;
 }
 
 .footer a {
