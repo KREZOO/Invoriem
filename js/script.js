@@ -27,12 +27,12 @@ const mobileNav = document.querySelector('#mobileNav')
 
 openNavBtn.onclick = function () {
     mobileNav.classList.remove('none')
-    /*document.body.classList.add('no-scroll')*/
+    document.body.classList.add('no-scroll')
 }
 
 closeNavBtn.onclick = function () {
     mobileNav.classList.add('none')
-    /*document.body.classList.remove('no-scroll')*/
+    document.body.classList.remove('no-scroll')
 }
 
 /*Video*/
